@@ -9,6 +9,5 @@ public class GuestbookBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GuestbookBackendApplication.class, args);
 	}
-
 }
 
